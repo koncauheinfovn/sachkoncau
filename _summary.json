@@ -1,0 +1,34 @@
+[
+  {
+    "file": "dieu-cha-ong-khong-the-ngo-toi-phan-1.json",
+    "title": "ĐIỀU CHA ÔNG KHÔNG NGỜ TỚI (Phần I: Kiện toàn niềm tin)",
+    "chapters": 6,
+    "headings": 48,
+    "footnotes": 1,
+    "tables": 0
+  },
+  {
+    "file": "dieu-cha-ong-khong-the-ngo-toi-phan-2.json",
+    "title": "ĐIỀU CHA ÔNG KHÔNG THỂ NGỜ TỚI (Phần II: Biểu tượng qua các nghi lễ truyền thống)",
+    "chapters": 6,
+    "headings": 39,
+    "footnotes": 0,
+    "tables": 0
+  },
+  {
+    "file": "nen-tang-van-hoa-co-truyen-kon-cau.json",
+    "title": "NỀN TẢNG VĂN HÓA CỔ TRUYỀN KÒN CAU",
+    "chapters": 7,
+    "headings": 72,
+    "footnotes": 278,
+    "tables": 5
+  },
+  {
+    "file": "hat-giong-tin-mung-kho.json",
+    "title": "HẠT GIỐNG TIN MỪNG TRONG VĂN HÓA VÀ TÍN NGƯỠNG CỔ TRUYỀN CỦA CỘNG ĐỒNG NÓI TIẾNG K’HO",
+    "chapters": 6,
+    "headings": 117,
+    "footnotes": 380,
+    "tables": 5
+  }
+]
